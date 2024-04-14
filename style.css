@@ -60,11 +60,9 @@ header nav.mobile {
     padding: 1.5rem;
     gap: 1.5rem;
     
-    transition: 0.7s;
-   header nav.mobile.abrir {
-    right: 0;
-   } 
-    header nav button {
+
+    
+    .header-mobile nav button {
     margin-left: auto;
     margin-bottom: 4rem;
 
